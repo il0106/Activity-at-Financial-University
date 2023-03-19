@@ -20,7 +20,7 @@ I used these tricks:
 6) finding solutions for system of equations via fsolve from scipy
 7) colormaps
 ## Gradient busting with gen optimizing
-This is my article for a magazine (https://cyberleninka.ru/article/n/primenenie-geneticheskogo-algoritma-nastroyki-gradientnogo-bustinga-dlya-prognozirovaniya-izmeneniya-otkrytogo-interesa-po-dannym). The gist is hyperparameter optimization via genetic algorithms. 
+This is my article for a magazine (https://cyberleninka.ru/article/n/primenenie-geneticheskogo-algoritma-nastroyki-gradientnogo-bustinga-dlya-prognozirovaniya-izmeneniya-otkrytogo-interesa-po-dannym or there https://www.elibrary.ru/ip_restricted.asp?rpage=https%3A%2F%2Fwww%2Eelibrary%2Eru%2Fitem%2Easp%3Fid%3D48250558). The gist is hyperparameter optimization via genetic algorithms. 
 Perfoming such tricks as:
 1) GradientBoostingRegressor
 2) building a python class for optimizing
@@ -34,7 +34,12 @@ One of my control work at the university (yeep, again). Let's see what I used (t
 4) DecisionTreeClassifier
 5) SVM (particularly SVC)
 ## LSTM for predicting iRTS
-
+It is my article again! Topic is here: https://www.elibrary.ru/ip_restricted.asp?rpage=https%3A%2F%2Fwww%2Eelibrary%2Eru%2Fitem%2Easp%3Fid%3D47395550. The main goal is predicting values of iRTS. Ok, I racon what you think, but those thoughts are my first steps - take it easy)
+What I should mention are:
+1)
+2)
+3)
+4) 
 
 
 
